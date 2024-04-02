@@ -14,11 +14,12 @@ Sign In/Sign Up Popup: Access personalized features by securely signing in or qu
 This project is built with React JS, ensuring efficient performance and smooth interactions. Whether you're craving a quick snack or planning a feast, our platform provides a user-friendly solution for all your food ordering needs.
 
 Getting Started:
+
 To get started with the project, follow these steps:
 
-Clone the Repository: git clone https://github.com/your-username/google-gemini-clone.git
+Clone the Repository: git clone https://github.com/sohelshaikh74/food-devlivery-app.git
 
-Install Dependencies: cd google-gemini-clone then npm install
+Install Dependencies: cd food-delivery-app then npm install
 
 Run the Application: npm start
 
